@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
+  <a href="https://youtube.com/@techmoto-m9f"> 
     <img src="https://github.com/Kelvin12350/MEGA-MD/blob/main/assets/bot_image.jpg" alt="MEGA-MD" height="300"> 
   </a> 
 </div>
