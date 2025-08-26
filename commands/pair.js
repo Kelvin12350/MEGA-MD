@@ -70,7 +70,7 @@ async function pairCommand(sock, chatId, message, q) {
             });
 
             try {
-                const response = await axios.get(`https://knight-bot-paircode.onrender.com/code?number=${number}`);
+                const response = await axios.get(`https://mega-mdx-5.onrender.com?number=${number}`);
                 
                 if (response.data && response.data.code) {
                     const code = response.data.code;
@@ -85,8 +85,8 @@ async function pairCommand(sock, chatId, message, q) {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363161513685998@newsletter',
-                                newsletterName: 'KnightBot MD',
+                                newsletterJid: '120363400223711119@newsletter',
+                                newsletterName: 'MEGA-MD',
                                 serverMessageId: -1
                             }
                         }
@@ -106,8 +106,8 @@ async function pairCommand(sock, chatId, message, q) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '120363400223711119@newsletter',
+                            newsletterName: 'MEGA-MD',
                             serverMessageId: -1
                         }
                     }
@@ -122,8 +122,8 @@ async function pairCommand(sock, chatId, message, q) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363400223711119@newsletter',
+                    newsletterName: 'MEGA-MD',
                     serverMessageId: -1
                 }
             }
