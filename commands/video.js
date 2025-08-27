@@ -92,7 +92,7 @@ async function videoCommand(sock, chatId, message) {
                 video: { url: videoDownloadUrl },
                 mimetype: 'video/mp4',
                 fileName: filename,
-                caption: `*${title}*\n\n> *_Downloaded by Knight Bot MD_*`
+                caption: `*${title}*\n\n> *_Downloaded by MEGA-MD_*`
             }, { quoted: message });
             return;
         } catch (directSendErr) {
