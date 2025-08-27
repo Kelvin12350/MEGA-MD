@@ -59,7 +59,7 @@ For further customization and setup guidance, click the button below:
   <a href="https://youtu.be/-oz_u1iMgf8">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
-  <a href="https://katabump.com">
+  <a href="https://bot-hosting.net/login/discord">
     <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
